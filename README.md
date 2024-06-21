@@ -2,6 +2,8 @@
 Customer Segmentation and Product Analysis
 
 A. Overview
+
+
 This project involves analyzing customer data and product performance to derive insights for marketing strategies and product offerings. The analysis includes data cleaning, exploratory data analysis (EDA), customer segmentation using clustering techniques, product analysis, and predictive modeling for sales forecasting.
 
 B. Project Structure
@@ -40,4 +42,5 @@ D. Instructions to Run Locally
 E. Additional Information
   
   a. Data Source: The dataset (dataset.csv) contains synthetic data generated for demonstration purposes.
+
   b. Note: Adjustments may be needed if running outside of Google Colab, such as setting up local data paths.
