@@ -6,9 +6,11 @@ This project involves analyzing customer data and product performance to derive 
 
 Project Structure
 
-Notebooks:Customer_Segmentation_and_Product_Analysis.ipynb: Main notebook containing the analysis code.
+Notebooks:
+   Customer_Segmentation_and_Product_Analysis.ipynb: Main notebook containing the analysis code.
 
-Data:dataset.csv: CSV file containing the dataset used for analysis.
+Data:
+   dataset.csv: CSV file containing the dataset used for analysis.
 
 Tools Used
 Python (libraries including pandas, scikit-learn)
