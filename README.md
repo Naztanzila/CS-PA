@@ -6,37 +6,37 @@ This project involves analyzing customer data and product performance to derive 
 
 Project Structure
 
-Notebooks:
-   Customer_Segmentation_and_Product_Analysis.ipynb: Main notebook containing the analysis code.
+1. Notebooks:
+   a. Customer_Segmentation_and_Product_Analysis.ipynb : Main notebook containing the analysis code.
 
-Data:
-   dataset.csv: CSV file containing the dataset used for analysis.
+2. Data:
+   b. dataset.csv : CSV file containing the dataset used for analysis.
 
 Tools Used
-Python (libraries including pandas, scikit-learn)
-Google Colab (for notebook execution and development)
+   1. Python (libraries including pandas, scikit-learn)
+   2. Google Colab (for notebook execution and development)
 
 Instructions to Run Locally
 
-Setting Up Environment
+   1. Setting Up Environment
 
-Clone the Repository:
+   a. Clone the Repository:
 
     git clone https://github.com/Naztanzila/CS-PA.git
     cd Customer-Segmentation-and-Product-Analysis
 
-Install Dependencies:
-  Ensure you have Python installed (preferably Python 3.x).
-  
-Install required libraries using pip:
-  pip install pandas scikit-learn
+   2. Install Dependencies:
+     a. Ensure you have Python installed (preferably Python 3.x).
+     b. Install required libraries using pip:
 
-Open the Notebook:
-  Navigate to the project directory and launch Jupyter Notebook
-  Open Customer_Segmentation_and_Product_Analysis.ipynb in your browser.
-  Run each cell in the notebook sequentially to perform data analysis, clustering, and predictive modeling.
-  Review outputs and visualizations generated to understand customer segments, product performance, and recommendations.
+           pip install pandas scikit-learn
+
+   3. Open the Notebook:
+     a. Navigate to the project directory and launch Jupyter Notebook
+     b. Open Customer_Segmentation_and_Product_Analysis.ipynb in your browser.
+     c. Run each cell in the notebook sequentially to perform data analysis, clustering, and predictive modeling.
+     d.Review outputs and visualizations generated to understand customer segments, product performance, and recommendations.
 
 Additional Information
-  Data Source: The dataset (dataset.csv) contains synthetic data generated for demonstration purposes.
-  Note: Adjustments may be needed if running outside of Google Colab, such as setting up local data paths.
+  a. Data Source: The dataset (dataset.csv) contains synthetic data generated for demonstration purposes.
+  b. Note: Adjustments may be needed if running outside of Google Colab, such as setting up local data paths.
