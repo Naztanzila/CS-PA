@@ -1,10 +1,10 @@
 # CS-PA
 Customer Segmentation and Product Analysis
 
-Overview
+A. Overview
 This project involves analyzing customer data and product performance to derive insights for marketing strategies and product offerings. The analysis includes data cleaning, exploratory data analysis (EDA), customer segmentation using clustering techniques, product analysis, and predictive modeling for sales forecasting.
 
-Project Structure
+B. Project Structure
 
 1. Notebooks:
    a. Customer_Segmentation_and_Product_Analysis.ipynb : Main notebook containing the analysis code.
@@ -12,11 +12,11 @@ Project Structure
 2. Data:
    b. dataset.csv : CSV file containing the dataset used for analysis.
 
-Tools Used
+C. Tools Used
    1. Python (libraries including pandas, scikit-learn)
    2. Google Colab (for notebook execution and development)
 
-Instructions to Run Locally
+D. Instructions to Run Locally
 
    1. Setting Up Environment
 
@@ -37,6 +37,7 @@ Instructions to Run Locally
      c. Run each cell in the notebook sequentially to perform data analysis, clustering, and predictive modeling.
      d.Review outputs and visualizations generated to understand customer segments, product performance, and recommendations.
 
-Additional Information
+E. Additional Information
+  
   a. Data Source: The dataset (dataset.csv) contains synthetic data generated for demonstration purposes.
   b. Note: Adjustments may be needed if running outside of Google Colab, such as setting up local data paths.
